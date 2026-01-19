@@ -2,17 +2,17 @@
     "format_version": 2,
     "header": {
         "description": "Indium FPS Boost Pack inscreases FPS For Better Performance",
-        "name": "Indium FPS Boost",
-        "uuid": "12c8d304-ebd6-4b30-ae80-4c9249c024d3",
-        "version": [1, 0, 0],
+        "name": "Indium FPS Boost v1.1.0",
+        "uuid": "5eeda7a4-1988-416e-977d-7c3608f9406e",
+        "version": [1, 1, 0],
         "min_engine_version": [ 1, 21, 0 ]
     },
     "modules": [
         {
             "description": "Created by FoxyFall",
             "type": "resources",
-            "uuid": "2bd3d245-8a75-4b29-9ff6-f74bd5c20943",
-            "version": [1, 0, 0]
+            "uuid": "968dfbe4-ca20-445b-aca1-741c4a5d91bd",
+            "version": [1, 1, 0]
       }
    ]
 }
